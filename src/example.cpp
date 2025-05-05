@@ -1,4 +1,5 @@
 #include "example.h"
+#include <iostream>
 using namespace std;
 
 // cppcheck-suppress unusedFunction
