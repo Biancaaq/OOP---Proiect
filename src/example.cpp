@@ -2,6 +2,6 @@
 
 // cppcheck-suppress unusedFunction
 int doSomething(int x) {
-  abc
-    return x;
+  cout << "pisicuta";
+      return x;
 }
